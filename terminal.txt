@@ -127,3 +127,17 @@ invie-responsive (1 of 1 total)
 > Buy now for $14 (1yr)? [y|N] 
  2018-01-29 21:52:08 ⌚  noel-pc in ~/Documentos/platzi/deploy_now.sh/now-course/bff
 ± |master ✓| → 
+
+
+
+
+
+ 2018-01-29 21:54:41 ⌚  noel-pc in ~/Documentos/platzi/deploy_now.sh/now-course
+± |master ✓| → now alias platzi-now-enevaca.now.sh -r rules.json 
+> Success! 3 rules configured for platzi-now-enevaca.now.sh [1s]
+
+ 2018-01-29 22:01:42 ⌚  noel-pc in ~/Documentos/platzi/deploy_now.sh/now-course
+± |master ?:1 ✗| → 
+
+
+

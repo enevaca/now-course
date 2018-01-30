@@ -1,0 +1,15 @@
+{
+	"rules": [
+		{
+			"pathname": "/graphql",
+			"dest": "platzi-now-api-enevaca.now.sh"
+		},
+		{
+			"pathname": "/subscriptions",
+			"dest": "platzi-now-api-enevaca.now.sh"
+		},
+		{
+			"dest": "platzi-now-bff-enevaca.now.sh"
+		}
+	]
+}
