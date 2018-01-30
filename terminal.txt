@@ -141,3 +141,21 @@ invie-responsive (1 of 1 total)
 
 
 
+
+ 2018-01-29 22:04:48 ⌚  noel-pc in ~/Documentos/platzi/deploy_now.sh/now-course
+± |master ✓| → now enevaca/invie-responsive
+> Didn't find directory. Searching on GitHub...
+The authenticity of host 'github.com (192.30.253.112)' can't be established.
+RSA key fingerprint is SHA256:nThbg6kXUpJWGl7E1IGOCspRomTxdCARLviKw6E5SY8.
+Are you sure you want to continue connecting (yes/no)? yes
+> Deploying GitHub repository "enevaca/invie-responsive" under noel.vm.2501@gmail.com
+> Ready! https://enevaca-invie-responsive-tluvrrlsgx.now.sh [13s]
+> You (noel.vm.2501@gmail.com) are on the OSS plan. Your code and logs will be made public.
+> NOTE: You can use `now --public` to skip this prompt
+> Success! Deployment complete!
+
+ 2018-01-29 22:14:26 ⌚  noel-pc in ~/Documentos/platzi/deploy_now.sh/now-course
+± |master ✓| → 
+
+
+
