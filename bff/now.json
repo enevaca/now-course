@@ -1,9 +1,10 @@
 {
 	"name": "platzi-now-bff",
+	"alias": "platzi-now-bff-enevaca.now.sh",
 	"env": {
 		"NODE_ENV": "production",
-		"BACKEND_API_ENDPOINT": "https://platzi-now-api-pblivzssdm.now.sh/graphql",
-		"BACKEND_WS_ENDPOINT": "wss://platzi-now-api-pblivzssdm.now.sh/subscriptions"
+		"BACKEND_API_ENDPOINT": "https://platzi-now-api-enevaca.now.sh/graphql",
+		"BACKEND_WS_ENDPOINT": "wss://platzi-now-api-enevaca.now.sh/subscriptions"
 	},
 	"type": "npm"
 }
